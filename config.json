@@ -1,13 +1,23 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "索尼": {
+      "索尼": {
       "name": "索尼",
       "api": "https://suoniapi.com/api.php/provide/vod"
     },
     "豪华": {
       "name": "豪华",
       "api": "https://hhzyapi.com/api.php/provide/vod"
+    },
+    "dyttzy": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "电影天堂资源",
+      "detail": "http://caiji.dyttzyapi.com"
+    }，
+    "heimuer": {
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "name": "黑木耳",
+      "detail": "https://heimuer.tv"
     },
     "量子资源": {
       "name": "量子资源",
@@ -21,6 +31,39 @@
       "name": "牛牛",
       "api": "https://api.niuniuzy.me/api.php/provide/vod/"
     },
+    "maotaizy": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "茅台资源"
+    },
+    "wolong": {
+      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "name": "卧龙资源" 
+    },
+    "jisu": {
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "name": "极速资源",
+      "detail": "https://jszyapi.com"
+    },
+    "wujin": {
+      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "name": "无尽资源"  
+    },
+    "xiaomaomi": {
+      "api": "https://zy.xmm.hk/api.php/provide/vod",
+      "name": "小猫咪资源"  
+    },
+    "zuid": {
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "name": "最大资源"  
+    },
+    "dbzy": {
+      "api": "https://dbzy.tv/api.php/provide/vod",
+      "name": "豆瓣资源"
+    },
+    "mozhua": {
+      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "name": "魔爪资源"  
+    },
     "量子": {
       "name": "量子",
       "api": "https://cj.lziapi.com/api.php/provide/vod"
@@ -28,6 +71,10 @@
     "红牛": {
       "name": "红牛",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod"
+    },
+    "tyyszy": {
+      "api": "https://tyyszy.com/api.php/provide/vod",
+      "name": "天涯资源"
     },
     "魔都": {
       "name": "魔都",
